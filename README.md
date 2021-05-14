@@ -5,6 +5,7 @@ I usually go by James, but sometimes, like when I'm in korea, I go by Bada. It m
 ⚡ Fun fact: I've travelled to over 15 different countries
 
 🌟 Interests: Powerlifting, cooking, travelling, cryptocurrency, movies
+
 Programming Languages 🌐
 Know/Using- python SQL 
 Learning- R
