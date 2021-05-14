@@ -12,6 +12,6 @@ __Tools__ 🛠️<br/>
 Know/Using- vscode git jupyter notebook<br/>
 Learning- aws docker tableau powerBI
 
-Other Accounts 📫
+Other Accounts 📫<br/>
 https://www.linkedin.com/in/james-sopkin-15a7a3211/ <br/>
 jamessopkin@gmail.com
