@@ -8,6 +8,7 @@ Learning
 js logo	ts logo	rust logo
 Tools 🛠️
 Know/Using
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 actions logo	git logo	vscode logo	aseprite logo	gimp logo	travis ci logo	gnu make logo	Windows Terminal	WSL	many more...
 Learning
 docker logo	kubernetes logo	aws logo	codecov logo	jupyter notebook logo	many more...
