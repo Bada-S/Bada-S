@@ -7,12 +7,10 @@ I usually go by James, but sometimes, like when I'm in korea, I go by Bada. It m
 🌟 Interests: Powerlifting, cooking, travelling, cryptocurrency, movies
 
 Programming Languages 🌐
-Know/Using- python SQL 
-Learning- R
+Know/Using- python SQL  Learning- R
 
 Tools 🛠️
-Know/Using- vscode git jupyter notebook
-Learning- aws docker tableau powerBI
+Know/Using- vscode git jupyter notebook  Learning- aws docker tableau powerBI
 
 Other Accounts 📫
 https://www.linkedin.com/in/james-sopkin-15a7a3211/
