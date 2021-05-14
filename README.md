@@ -11,4 +11,5 @@ Tools 🛠️
 Know/Using- vscode git jupyter notebook
 Learning- aws docker
 Other Accounts 📫
-You can find and get touch with me on these accounts!
+https://www.linkedin.com/in/james-sopkin-15a7a3211/
+jamessopkin@gmail.com
