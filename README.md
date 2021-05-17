@@ -4,7 +4,7 @@ I usually go by James, but sometimes, like when I'm in korea, I go by Bada. It m
 
 __Programming Languages__ 🌐<br/>
 Know/Using- python SQL<br/>
-Learning- R
+Learning- R<br/>
 __Tools__ 🛠️<br/>
 Know/Using- vscode git jupyter notebook<br/>
 Learning- aws docker tableau powerBI<br/>
