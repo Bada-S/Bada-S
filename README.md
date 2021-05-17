@@ -12,5 +12,5 @@ Learning- aws docker tableau powerBI<br/>
 🌟 __Interests:__ Powerlifting, cooking, travelling, cryptocurrency, movies<br/>
 
 Other Accounts 📫<br/>
-https://www.linkedin.com/in/james-sopkin-15a7a3211/ <br/>
-jamessopkin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/james-sopkin-15a7a3211/) <br/>
+[gmail](jamessopkin@gmail.com)
